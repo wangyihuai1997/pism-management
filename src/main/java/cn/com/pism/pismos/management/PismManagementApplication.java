@@ -1,4 +1,4 @@
-package cn.com.pism.pismos.management.pismmanagement;
+package cn.com.pism.pismos.management;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
